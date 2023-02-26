@@ -1,0 +1,63 @@
+body {
+background-attachment: fixed;
+background-image: url("back.jpg") ;
+background-position: center center;
+background-repeat: no-repeat;
+background-color: pink;
+}
+table, tr, td, th{ 
+	border: 0px solid black;
+	text-align: center;
+}
+.fcc-btn0  {
+  background-color: #FFFFFF;
+  color: black;
+  padding: 15px 25px;
+}
+.fcc-btn0:hover {
+  background-color: #223094;
+  color: white;
+}
+.fcc-btn1  {
+  background-color: #FFD133;
+  color: black;
+  padding: 15px 25px;
+}
+.fcc-btn1:hover {
+  background-color: #223094;
+  color: white;
+}
+
+.fcc-btn2  {
+  background-color: #FF6B33;
+  color: black;
+  padding: 15px 25px;
+}
+.fcc-btn2:hover {
+  background-color: #223094;
+  color: white;
+}
+
+.fcc-btn3  {
+  background-color: #199319;
+  color: black;
+  padding: 15px 25px;
+}
+.fcc-btn3:hover {
+  background-color: #223094;
+  color: white;
+}
+
+.fcc-btn4  {
+  background-color: #33AFFF;
+  color: black;
+  padding: 15px 25px;
+}
+.fcc-btn4:hover {
+  background-color: #223094;
+  color: white;
+}
+.datos {
+  background-color: #223094;
+  color: white;
+}
